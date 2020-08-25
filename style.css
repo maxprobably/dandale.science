@@ -1,0 +1,110 @@
+body, text {
+	
+	font-family: "Helvetica";
+	background-color: #202020;
+	
+}
+
+.bodycontainer {
+	
+	margin: auto;
+	width: 600px;
+	display: block;
+	border-radius: 5px;
+	background-color: #fff;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+	padding: 25px;
+	
+}
+
+.background {
+	
+	display: block;
+	z-index: -1000;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	
+}
+
+.navlist {
+	
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+	margin: auto;
+		
+}
+
+.navlistitem {
+	
+	display: inline;
+	text-align: center;
+	margin-right: 12px;
+	margin-left: 12px;
+	font-weight: bold;
+
+}
+
+a {
+	
+	text-decoration: none;
+	
+}
+
+.headshot {
+
+	width: 100%;
+
+}
+
+.headshotcontainer {
+	
+	display: block;
+	border-radius: 5px;
+	float: right;
+	width: 128px;
+	height: 128px;
+	overflow: hidden;
+
+	
+}
+
+hr {
+	
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+	
+}
+
+.headertext {
+	
+	line-height: 0;
+	
+}
+
+.header {
+
+	width: 450px;
+	
+}
+
+svg {
+	
+  width: 100%;
+  
+}
+
+.fittext {
+	
+	font-weight: bold;
+	
+}
+
+nav {
+	
+	line-height: 1.8;
+	
+}
