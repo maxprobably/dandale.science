@@ -1,4 +1,5 @@
-# Dan Dale - Professor of Physics and Nuclear Engineering
+# Dan Dale
+## Professor of Physics and Nuclear Engineering
 
 Dan Dale is an experimental nuclear physicist with interests ranging from applied physics to experimental tests of quantum chromodynamics. His current projects are:
 
