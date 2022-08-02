@@ -1,3 +1,5 @@
+# Dan Dale - Professor of Physics and Nuclear Engineering
+
 Dan Dale is an experimental nuclear physicist with interests ranging from applied physics to experimental tests of quantum chromodynamics. His current projects are:
 
 - Two neutron correlations in photo-fission. Here, we are studying the energy and angle correlations of neutrons emitted in the photo-fission of actinides. These correlations arise from the fact that neutrons emitted in fission come from fully accelerated fission fragments, and thus receive a kinematic boost. This work is funded by the US National Nuclear Security Administration (NNSA) Office of Proliferation Detection.
