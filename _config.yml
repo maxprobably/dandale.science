@@ -1,9 +1,1 @@
-remote_theme: pages-themes/minimal@v0.2.0
-# title: Dan Dale
-# description: Dan Dale is an experimental nuclear physicist with interests ranging from applied physics to experimental tests of quantum chromodynamics.
-logo: /assets/img/headshot.jpg
-show_downloads: false
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 theme: jekyll-theme-cayman
