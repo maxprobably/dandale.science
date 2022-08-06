@@ -5,3 +5,5 @@ logo: /assets/img/headshot.jpg
 show_downloads: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+theme: jekyll-theme-tactile
